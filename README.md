@@ -3,10 +3,11 @@
 
 # My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/muxiaobai)
 
 (Be sure to click on it for the infinite scrolling version.)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muxiaobai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **muxiaobai/muxiaobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
